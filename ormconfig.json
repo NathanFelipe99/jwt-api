@@ -5,6 +5,7 @@
     "username": "postgres",
     "password": "pgSQL#2021",
     "database": "",
+    "schema": "jwt",
     "entities": [
         "src/app/models/*.ts"
     ],
